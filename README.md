@@ -33,4 +33,5 @@ To login, go to localhost/name_of_your_database/wp-admin
 
 
 
+Download Filezilla : https://filezilla-project.org/
 
